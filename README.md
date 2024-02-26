@@ -1,4 +1,4 @@
-**Project Title:** Exploratory Data Analysis of Irish Weather 🌦️
+# Exploratory Data Analysis of Irish Weather 🌦️
 
 ### Project Overview:
 This project entails an in-depth exploratory data analysis (EDA) of historic weather data obtained from Met Eireann, Ireland’s primary meteorological service. The dataset contains a comprehensive record of weather measurements over a period, providing valuable insights into Irish weather patterns. 📊
